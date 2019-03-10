@@ -1,0 +1,24 @@
+{
+  "name": "translate-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./src/main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmx164491960/translate-util.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmx164491960/translate-util/issues"
+  },
+  "homepage": "https://github.com/jmx164491960/translate-util#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.88.0"
+  }
+}
